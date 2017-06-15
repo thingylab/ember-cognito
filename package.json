@@ -47,7 +47,7 @@
     "ember-source": "~2.13.0",
     "ember-welcome-page": "^3.0.0",
     "eslint-plugin-ember-suave": "^1.0.0",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.5.0"
   },
   "engines": {
     "node": ">= 4"
